@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/MenuPause.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Menuoptions.js">
     <Files>
-      <File FileName="Assets/scripts/MenuPause.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/MenuPause.cs" Line="58" Column="8" />
+      <File FileName="Assets/scripts/Menu Principale.js" Line="10" Column="2" />
+      <File FileName="Assets/scripts/Menuquitter.js" Line="7" Column="37" />
+      <File FileName="Assets/scripts/Menuoptions.js" Line="7" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
